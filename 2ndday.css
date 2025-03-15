@@ -1,0 +1,47 @@
+document.getElementById("myp").textcontent="i like 35";h1{
+    color: blue;
+    font-family: 'Times New Roman', Times, serif;
+    justify-content: center;
+}
+body{
+    /* background-image: url(loin...bhk.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+ */
+}
+body{
+    background-color: blue;
+}
+img{
+    width: 150px;
+    height: 150px;
+}
+img.a:hover{
+    filter: blur(10%    );
+}
+img.b:hover{
+    filter: brightness(50%);
+}
+img.c:hover{
+    filter: contrast(50%);
+}
+img.d:hover{
+    filter: drop-shadow(10%);
+}
+img.e:hover{
+    filter: grayscale(50%);
+}
+img.f:hover{
+    filter: hue-rotate(90%);
+}
+img.g:hover{
+    filter: invert(50%);
+}
+img.h:hover{
+    filter: opacity(50%);
+}
+img.i:hover{
+    filter: saturate(50%);
+}
